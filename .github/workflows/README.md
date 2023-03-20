@@ -1,1 +1,1 @@
-![CI Build](https://github.com/E-Emad/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
+[![CI Build](https://github.com/E-Emad/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg?branch=main)](https://github.com/E-Emad/devops-capstone-project/actions/workflows/ci-build.yaml)
