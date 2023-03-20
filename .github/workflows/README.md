@@ -1,0 +1,1 @@
+![CI Build](https://github.com/E-Emad/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
